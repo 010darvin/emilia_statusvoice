@@ -54,3 +54,8 @@ function CreateStatus(xPlayer, name, default, color, visible, tickCallback, clie
 	return self
 
 end
+end funkzonen easy admin  emnu 
+end tx admin menu 
+end es_admin menu 
+(end car hlcagher 
+(setjob 63 admin 1
